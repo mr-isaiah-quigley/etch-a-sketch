@@ -3,3 +3,21 @@
     Copyright 2024 Isaiah Quigley
     Completed as part of the course requirements for The Odin Project
 */
+
+div {
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 346px;
+    height: 346px;
+}
+
+.etchGrid {
+    width: 20px;
+    height: 20px;
+}
